@@ -11,7 +11,7 @@
     "classnames": "^1.2.0",
     "i18n-js": "https://github.com/fnando/i18n-js/archive/v3.0.0.rc11.tar.gz",
     "interact.js": "~>1.2.6",
-    "jquery": "~>2.2.0",
+    "jquery": "^3.0.0",
     "js-cookie": "^2.0.4",
     "lodash": "^4.13.1",
     "react": "15.2.1",
